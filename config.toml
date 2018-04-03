@@ -112,10 +112,10 @@ weight = -12
 identifier = "projects"
 url = "/projects/"
 [[menu.main]]
-name = "Archive"
+name = "Posts"
 weight = -11
-identifier = "archive"
-url = "/archive/"
+identifier = "posts"
+url = "/posts/"
 
 [blackfriday]
 hrefTargetBlank = true
