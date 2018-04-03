@@ -1,0 +1,128 @@
+baseURL = "http://tycheyoung.github.io"
+title = "Jaeyoung Kang"
+# for smart copyright line, leave this blank and check [params.copyright]
+copyright = ""
+
+theme = "minimo"
+
+disqusShortname = "tycheyoung-hugo"
+googleAnalytics = "UA-116568187-1"
+
+Paginate = 5
+preserveTaxonomyNames = true
+
+enableRobotsTXT = true # generate robots.txt
+
+# Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ )
+pygmentsCodefences = true
+
+enableEmoji = true
+
+# Missing translations will default to this content language
+defaultContentLanguage = "en"
+
+[params.info]
+description = "B.E. Student at Korea University"
+title404 = "Nothing's here!"
+
+[params.assets]
+favicon = ["static/favicon.ico"]
+customCSS = ["css/custom.css"]
+customJS = ["js/custom.js"]
+gopher = "" # used in 404 template ( Generator: https://gopherize.me )
+
+[params.copyright]
+prefix = ""
+holder = "Jaeyoung Kang"
+startYear = "2018"
+suffix = ""
+
+[params.settings]
+# date & time format: https://golang.org/pkg/time/
+dateFormat = "2006, Jan 02"
+listDateFormat = "2006, Jan 02"
+archiveDateFormat = "Jan 02"
+hideEntryNavigation = ["page"] # boolean / array of sections
+hideSocialMenu = false
+showReadingTime = true
+taxonomyCloudShuffle = true
+accentColor = "#8c1515"
+
+[params.sidebar]
+enable = true
+
+[params.widgets]
+homepage = []
+sidebar = ["about","recent_posts","taxonomy_cloud"]
+
+[params.opengraph.facebook]
+admins = [] # array of Facebook IDs
+appID = ""
+pageID = ""
+
+[params.opengraph.twitter]
+page = "" # Twitter page username
+
+[params.seo]
+# Title Separator: - – — · • * ⋆ | ~ « » < >
+titleSeparator = "•"
+
+[params.social]
+# codepen = "MunifTanjim"
+email = "retbird13@gmail.com"
+# facebook = "MunifTanjim"
+github = "tycheyoung"
+# gitlab = "MunifTanjim"
+# instagram = "MunifTanjim"
+linkedin = "jaeyoung-kang-ku"
+# twitter = "MunifTanjim"
+telegram = "iliketuna"
+# google_scholar = "qc6CJjYAAAAJ"
+
+[params.comments]
+enable = false
+
+[params.comments.staticman]
+enable = true
+apiEndpoint = "https://api.staticman.net/v2/entry"
+maxDepth = 2
+
+[params.comments.staticman.github]
+username = "MunifTanjim"
+repository = "minimo"
+branch = "master"
+
+[taxonomies]
+author = "authors"
+category = "categories"
+series = "series"
+tag = "tags"
+
+[permalinks]
+page = "/:slug/"
+
+[[menu.main]]
+name = "Essay"
+weight = -13
+identifier = "essay"
+url = "/essay/"
+[[menu.main]]
+name = "Projects"
+weight = -12
+identifier = "projects"
+url = "/projects/"
+[[menu.main]]
+name = "Archive"
+weight = -11
+identifier = "archive"
+url = "/archive/"
+
+[blackfriday]
+hrefTargetBlank = true
+
+[languages]
+# edit this block for your own language
+[languages.en]
+lang = "en"
+languageName = "English"
+weight = 1
