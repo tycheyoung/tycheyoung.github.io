@@ -3,248 +3,71 @@ title: Home
 menu: main
 weight: -270
 ---
-
-__Advertisement :)__
-
-- __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
-  resize in browser.
-- __[babelfish](https://github.com/nodeca/babelfish/)__ - developer friendly
-  i18n with plurals support and easy syntax.
-
-You will like those projects!
-
----
-
-# h1 Heading 8-)
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
-
-
-## Horizontal Rules
-
-___
-
----
-
-***
-
-
-## Typographic replacements
-
-Enable typographer option to see result.
-
-(c) (C) (r) (R) (tm) (TM) (p) (P) +-
-
-test.. test... test..... test?..... test!....
-
-!!!!!! ???? ,,  -- ---
-
-"Smartypants, double quotes" and 'single quotes'
-
-
-## Emphasis
-
-**This is bold text**
-
-__This is bold text__
-
-*This is italic text*
-
-_This is italic text_
-
-~~Strikethrough~~
-
-
-## Blockquotes
-
-
-> Blockquotes can also be nested...
->> ...by using additional greater-than signs right next to each other...
-> > > ...or with spaces between arrows.
-
-
-## Lists
-
-Unordered
-
-+ Create a list by starting a line with `+`, `-`, or `*`
-+ Sub-lists are made by indenting 2 spaces:
-  - Marker character change forces new list start:
-    * Ac tristique libero volutpat at
-    + Facilisis in pretium nisl aliquet
-    - Nulla volutpat aliquam velit
-+ Very easy!
-
-Ordered
-
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
-
-
-1. You can use sequential numbers...
-1. ...or keep all the numbers as `1.`
-
-Start numbering with offset:
-
-57. foo
-1. bar
-
-
-## Code
-
-Inline `code`
-
-Indented code
-
-    // Some comments
-    line 1 of code
-    line 2 of code
-    line 3 of code
-
-
-Block code "fences"
-
-```
-Sample text here...
-```
-
-Syntax highlighting
-
-``` js
-var foo = function (bar) {
-  return bar++;
-};
-
-console.log(foo(5));
-```
-
-## Tables
-
-| Option | Description |
-| ------ | ----------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
-
-Right aligned columns
-
-| Option | Description |
-| ------:| -----------:|
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
-
-
-## Links
-
-[link text](http://dev.nodeca.com)
-
-[link with title](http://nodeca.github.io/pica/demo/ "title text!")
-
-Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
-
-
-## Images
-
-![Minion](https://octodex.github.com/images/minion.png)
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
-
-Like links, Images also have a footnote style syntax
-
-![Alt text][id]
-
-With a reference later in the document defining the URL location:
-
-[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
-
-
-## Plugins
-
-The killer feature of `markdown-it` is very effective support of
-[syntax plugins](https://www.npmjs.org/browse/keyword/markdown-it-plugin).
-
-
-### [Emojies](https://github.com/markdown-it/markdown-it-emoji)
-
-> Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum:
->
-> Shortcuts (emoticons): :-) :-( 8-) ;)
-
-see [how to change output](https://github.com/markdown-it/markdown-it-emoji#change-output) with twemoji.
-
-
-### [Subscript](https://github.com/markdown-it/markdown-it-sub) / [Superscript](https://github.com/markdown-it/markdown-it-sup)
-
-- 19^th^
-- H~2~O
-
-
-### [\<ins>](https://github.com/markdown-it/markdown-it-ins)
-
-++Inserted text++
-
-
-### [\<mark>](https://github.com/markdown-it/markdown-it-mark)
-
-==Marked text==
-
-
-### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
-
-Footnote 1 link[^first].
-
-Footnote 2 link[^second].
-
-Inline footnote^[Text of inline footnote] definition.
-
-Duplicated footnote reference[^second].
-
-[^first]: Footnote **can have markup**
-
-    and multiple paragraphs.
-
-[^second]: Footnote text.
-
-
-### [Definition lists](https://github.com/markdown-it/markdown-it-deflist)
-
-Term 1
-
-:   Definition 1
-with lazy continuation.
-
-Term 2 with *inline markup*
-
-:   Definition 2
-
-        { some code, part of Definition 2 }
-
-    Third paragraph of definition 2.
-
-_Compact style:_
-
-Term 1
-  ~ Definition 1
-
-Term 2
-  ~ Definition 2a
-  ~ Definition 2b
-
-
-### [Abbreviations](https://github.com/markdown-it/markdown-it-abbr)
-
-This is HTML abbreviation example.
-
-It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
-
-*[HTML]: Hyper Text Markup Language
-
-### [Custom containers](https://github.com/markdown-it/markdown-it-container)
-
-::: warning
-*here be dragons*
-:::
+<!-- Personal Interest will be included -->
+Education
+---------
+* **<U>Korea University</U>**<br/>
+Mar. 2013 - Feb. 2019
+    * Candidate for B.E. Degree in Electrical Engineering
+    * Relevant Coursework: VLSI Design, Microelectronic Circuits, Operating System, Computer Architecture, Digital System Design, Data Structure and Algorithm, Microwave Engineering, Signal Processing, Communication Theory
+
+Publications
+----------
+[1] Jaeyoung Kang, Seungho Yoo, and Hwangnam Kim, *LOS and NLOS classification of UWB signals using CapsNet*, Proc. Korea Information and Communications Society, 2018.
+
+Experience
+----------
+
+### Research
+* **Research Intern** at Lab for Informatics, Communications, and Systems, Korea University (*Advisor: Prof. Sang Hyun Lee*)<br/>
+Jan 2018 - Present
+    * Message Passing:
+      Leading project on maximization of WSN battery lifetime using graphical model approach to distributed optimization and decision<br/>
+
+### Teaching
+* **Teaching Assistant** for Engineering Mathematics I (*Advisor: Prof. Nakju Doh*)<br/>
+Mar. 2017 - June 2017
+    * Covered fundamental mathematics for engineering, including MATLAB exercises
+    * Had 2 hours of office hour every week, answered questions in person and online, marked exams and assignments
+* **Peer-tutoring Mentor** at Korea University<br/>
+Jan. 2017 - Dec. 2017
+    * Circuit Theory I and Data Structure and Algorithm
+    * Taught peer students through university volunteer program (KUPT)
+
+### Extracurricular
+* Hardware and Software Club (HandS) [\[about\]](https://hands.korea.ac.kr) [\[board\]](https://hardwareand.software)<br/>
+Server/Webpage Administrator, Technical Leader<br/>
+Mar. 2013 - Present
+  * Server Maintainer: Developed club webpage and maintained server. Built with Nginx and Ruby, and used applicative multiplexer to use various protocols
+  * Mentoring: Taught fundamental skills such as C/Project Management to help freshmen start personal projects
+
+### Work
+* Republic of Korea Air Force<br/>
+Aug. 2014 - Aug. 2016
+  * Worked at Air Base Communication Control Office, Sergeant
+  * Managed maintenance schedule for tactical communications equipment such as RADAR/TACAN/TRS
+
+Personal Projects
+----------
+* [Python] PapagyeInsta
+    * Privately following Instagram user using telegram (without showing to my friends I am following someone)
+* [Python] Automatic lettering program to soldiers [\[link\]](https://github.com/Hanuu/lettertosoldier)
+    * Automatically send news and popular Facebook posts, and text files to soldiers who are in ROKA Basic Training Academy Center in Nonsan
+* [C/ASM] Making 64bit Operating System [\[link\]](https://github.com/tycheyoung/64bit_os)
+    * Making 64 bit OS starting from bootloader by following step-by-step guide
+    * Guidelines are **In Progress**
+* [Verilog] Maze Solving Robot using FPGA
+    * Implemented stack using Verilog and make 2-D maze solving robot with four IR proximity sensor.
+* [Android] Custom AOSP development
+    * Port unsupported version of Android(4.2) to Nexus S and added useful features in a framework.
+* [Arduino] Music BPM Analyzer
+    * Give response at the certain frequency of music and approximate its BPM.
+* [Arduino] Scoring system building for Nerdy-Derby contest
+    * Calculates lap time for multiple lanes using two IR sensor and store result in DB server.
+
+Technical Skills
+----------
+* Languages: Python, C, C++, MATLAB, Verilog, Assembly(ARM, x86-64), Web(HTML/CSS/JS/React.js)
+* Technologies: Spice, Prototyping Applications (Adobe XD)
+
+Last Updated: 8 April 2018
