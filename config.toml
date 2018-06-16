@@ -43,10 +43,10 @@ dateFormat = "2006, Jan 02"
 listDateFormat = "2006, Jan 02"
 archiveDateFormat = "Jan 02"
 hideEntryNavigation = ["page"] # boolean / array of sections
-hideSocialMenu = false
 showReadingTime = true
 taxonomyCloudShuffle = true
 accentColor = "#8c1515"
+hideMainMenu = false
 
 [params.sidebar]
 enable = true
@@ -54,6 +54,7 @@ enable = true
 [params.widgets]
 homepage = []
 sidebar = ["about","recent_posts","taxonomy_cloud"]
+footer = ["social_menu"]
 
 [params.opengraph.facebook]
 admins = [] # array of Facebook IDs
@@ -78,6 +79,7 @@ linkedin = "jaeyoung-kang-ku"
 # twitter = "MunifTanjim"
 # telegram = "iliketuna"
 # google_scholar = "qc6CJjYAAAAJ"
+# youtube = "UCT-U0rNerYxItGcuoPX-WYA"
 
 [params.comments]
 enable = false
