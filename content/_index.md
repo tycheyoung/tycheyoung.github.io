@@ -13,6 +13,7 @@ Mar. 2013 - Feb. 2019
 
 Publications
 ----------
+<!-- [2] Jaeyoung Kang, Minji Kim, and Sang Hyun Lee, **, Proc. Korea Information and Communications Society, 2018. -->
 [1] Jaeyoung Kang, Seungho Yoo, and Hwangnam Kim, *LOS and NLOS classification of UWB signals using CapsNet*, Proc. Korea Information and Communications Society, 2018.
 
 Experience

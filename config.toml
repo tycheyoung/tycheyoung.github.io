@@ -104,11 +104,6 @@ tag = "tags"
 page = "/:slug/"
 
 [[menu.main]]
-name = "Essay"
-weight = -13
-identifier = "essay"
-url = "/essay/"
-[[menu.main]]
 name = "Projects"
 weight = -12
 identifier = "projects"
