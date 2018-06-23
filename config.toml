@@ -108,11 +108,6 @@ name = "Projects"
 weight = -12
 identifier = "projects"
 url = "/projects/"
-[[menu.main]]
-name = "Posts"
-weight = -11
-identifier = "posts"
-url = "/posts/"
 
 [blackfriday]
 hrefTargetBlank = true
