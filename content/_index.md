@@ -13,8 +13,11 @@ Mar. 2013 - Feb. 2019
 
 Publications
 ----------
-<!-- [2] Jaeyoung Kang, Minji Kim, and Sang Hyun Lee, **, Proc. Korea Information and Communications Society, 2018. -->
-[1] Jaeyoung Kang, Seungho Yoo, and Hwangnam Kim, *LOS and NLOS classification of UWB signals using CapsNet*, Proc. Korea Information and Communications Society, 2018.
+<!-- [3] <u>Jaeyoung Kang</u>, and Sang Hyun Lee, **, IEEE Transactions on Vehicular Technology, __<u>Review In Progress</u>__-->
+
+[2] <u>Jaeyoung Kang</u>, Minji Kim, and Sang Hyun Lee, *Maximizing Wireless Sensor Network lifetime by message passing between nodes*, Proc. Korea Information and Communications Society, 2018.
+
+[1] <u>Jaeyoung Kang</u>, Seungho Yoo, and Hwangnam Kim, *LOS and NLOS classification of UWB signals using CapsNet*, Proc. Korea Information and Communications Society, 2018.
 
 Experience
 ----------
@@ -37,10 +40,24 @@ Jan. 2017 - Dec. 2017
 
 ### Extracurricular
 * Hardware and Software Club (HandS) [\[about\]](https://hands.korea.ac.kr) [\[board\]](https://hardwareand.software)<br/>
-Server/Webpage Administrator, Technical Leader<br/>
+*Server/Webpage Administrator, Technical Leader*<br/>
 Mar. 2013 - Present
   * Server Maintainer: Developed club webpage and maintained server. Built with Nginx and Ruby, and used applicative multiplexer to use various protocols
   * Mentoring: Taught fundamental skills such as C/Project Management to help freshmen start personal projects
+* Korea University Student Welfare Committee<br/>
+*Regular Member*<br/>
+Sept. 2016 – April 2017
+    * Received a volunteer scholarship for managing school bulletin board
+    * Did various projects to improve schoolmate’s welfare
+* Korea University United Nations Student Association<br/>
+*Regular Member*<br/>
+Sept. 2013 – Dec. 2013
+    * Discussed a variety of topics in the international community
+    * Attended a Model United Nations conference and acted as a delegate of Japan
+* Korea University Tiger's Run (KUTR)<br/>
+*Regular Member*<br/>
+Sept. 2017 – Present
+
 
 ### Work
 * Republic of Korea Air Force<br/>
@@ -63,12 +80,12 @@ Personal Projects
     * Port unsupported version of Android(4.2) to Nexus S and added useful features in a framework.
 * [Arduino] Music BPM Analyzer
     * Give response at the certain frequency of music and approximate its BPM.
-* [Arduino] Scoring system building for Nerdy-Derby contest
+* [Arduino] Scoring system for Nerdy-Derby contest
     * Calculates lap time for multiple lanes using two IR sensor and store result in DB server.
 
 Technical Skills
 ----------
 * Languages: Python, C, C++, MATLAB, Verilog, Assembly(ARM, x86-64), Web(HTML/CSS/JS/React.js)
-* Technologies: Spice, Prototyping Applications (Adobe XD)
+* Technologies: Spice, Quartus, Multisim, Synopsis, Prototyping Applications (Adobe XD)
 
-Last Updated: 8 April 2018
+Last Updated: 24 June 2018
