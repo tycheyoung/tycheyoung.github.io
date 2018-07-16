@@ -86,6 +86,6 @@ Personal Projects
 Technical Skills
 ----------
 * Languages: Python, C, C++, MATLAB, Verilog, Assembly(ARM, x86-64), Web(HTML/CSS/JS/React.js)
-* Technologies: Spice, Quartus, Multisim, Synopsis, Prototyping Applications (Adobe XD)
+* Technologies: Spice, Quartus, Multisim, Design Vision, Prototyping Applications (Adobe XD)
 
 Last Updated: 24 June 2018
