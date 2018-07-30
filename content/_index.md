@@ -13,7 +13,7 @@ Mar. 2013 - Feb. 2019
 
 Publications
 ----------
-<!-- [3] <u>Jaeyoung Kang</u>, and Sang Hyun Lee, **, IEEE Transactions on Vehicular Technology, __<u>Review In Progress</u>__-->
+<!-- [3] <u>Jaeyoung Kang</u>, Illsoo Sohn, and Sang Hyun Lee, **, IEEE Transactions on Vehicular Technology, __<u>Review In Progress</u>__-->
 
 [2] <u>Jaeyoung Kang</u>, Minji Kim, and Sang Hyun Lee, *Maximizing Wireless Sensor Network lifetime by message passing between nodes*, Proc. Korea Information and Communications Society, 2018.
 
@@ -32,7 +32,7 @@ Jan 2018 - Present
 * **Teaching Assistant** for Engineering Mathematics I (*Advisor: Prof. Nakju Doh*)<br/>
 Mar. 2017 - June 2017
     * Covered fundamental mathematics for engineering, including MATLAB exercises
-    * Had 2 hours of office hour every week, answered questions in person and online, marked exams and assignments
+    * Had 2 hours of office hour every week, answered questions in person at online, marked exams and assignments
 * **Peer-tutoring Mentor** at Korea University<br/>
 Jan. 2017 - Dec. 2017
     * Circuit Theory I and Data Structure and Algorithm
@@ -43,7 +43,7 @@ Jan. 2017 - Dec. 2017
 *Server/Webpage Administrator, Technical Leader*<br/>
 Mar. 2013 - Present
   * Server Maintainer: Developed club webpage and maintained server. Built with Nginx and Ruby, and used applicative multiplexer to use various protocols
-  * Mentoring: Taught fundamental skills such as C/Project Management to help freshmen start personal projects
+  * Mentoring: Taught fundamental skills such as C, project managing, machine learning basics to help freshmen start personal projects
 * Korea University Student Welfare Committee<br/>
 *Regular Member*<br/>
 Sept. 2016 – April 2017
@@ -86,6 +86,6 @@ Personal Projects
 Technical Skills
 ----------
 * Languages: Python, C, C++, MATLAB, Verilog, Assembly(ARM, x86-64), Web(HTML/CSS/JS/React.js)
-* Technologies: Spice, Quartus, Multisim, Design Vision, Prototyping Applications (Adobe XD)
+* Technologies: SPICE, Quartus, Multisim, Design Vision, Prototyping Applications (Adobe XD)
 
 Last Updated: 24 June 2018
