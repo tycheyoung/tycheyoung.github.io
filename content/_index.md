@@ -9,11 +9,10 @@ Education
 * **<U>Korea University</U>**<br/>
 Mar. 2013 - Feb. 2019
     * Candidate for B.E. Degree in Electrical Engineering
-    * Relevant Coursework: VLSI Design, Microelectronic Circuits, Operating System, Computer Architecture, Digital System Design, Data Structure and Algorithm, Microwave Engineering, Signal Processing, Communication Theory
+    * Relevant Coursework: Digital IC Design, VLSI Design, Microelectronic Circuits, Computer Architecture, Operating System, Data Structure and Algorithm, Microwave Engineering, Signal Processing, Communication Theory, Compiler (Audited)
 
 Publications
 ----------
-<!-- [3] <u>Jaeyoung Kang</u>, Illsoo Sohn, and Sang Hyun Lee, **, IEEE Transactions on Vehicular Technology, __<u>Review In Progress</u>__-->
 
 [2] <u>Jaeyoung Kang</u>, Minji Kim, and Sang Hyun Lee, *Maximizing Wireless Sensor Network lifetime by message passing between nodes*, Proc. Korea Information and Communications Society, 2018.
 
@@ -23,7 +22,7 @@ Experience
 ----------
 
 ### Research
-* **Research Intern** at Lab for Informatics, Communications, and Systems, Korea University (*Advisor: Prof. Sang Hyun Lee*)<br/>
+* **Undergraduate researcher** at Lab for Informatics, Communications, and Systems, Korea University (*Advisor: Prof. Sang Hyun Lee*)<br/>
 Jan 2018 - Present
     * Message Passing:
       Leading project on maximization of WSN battery lifetime using graphical model approach to distributed optimization and decision<br/>
@@ -88,4 +87,4 @@ Technical Skills
 * Languages: Python, C, C++, MATLAB, Verilog, Assembly(ARM, x86-64), Web(HTML/CSS/JS/React.js)
 * Technologies: SPICE, Quartus, Multisim, Design Vision, Prototyping Applications (Adobe XD)
 
-Last Updated: 24 June 2018
+Last Updated: 14 Sep 2018
