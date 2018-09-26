@@ -14,9 +14,9 @@ Mar. 2013 - Feb. 2019
 Publications
 ----------
 
-[2] <u>Jaeyoung Kang</u>, Minji Kim, and Sang Hyun Lee, *Maximizing Wireless Sensor Network lifetime by message passing between nodes*, Proc. Korea Information and Communications Society, 2018.
+[2] <u>Jaeyoung Kang</u>, Minji Kim, and Sang Hyun Lee, *Maximizing Wireless Sensor Network lifetime by message passing between nodes*, Proceedings of Symposium of the Korean Institute of communications and Information Sciences, 2018.
 
-[1] <u>Jaeyoung Kang</u>, Seungho Yoo, and Hwangnam Kim, *LOS and NLOS classification of UWB signals using CapsNet*, Proc. Korea Information and Communications Society, 2018.
+[1] <u>Jaeyoung Kang</u>, Seungho Yoo, and Hwangnam Kim, *LOS and NLOS classification of UWB signals using CapsNet*, Proceedings of Symposium of the Korean Institute of communications and Information Sciences, 2018.
 
 Experience
 ----------
@@ -25,8 +25,12 @@ Experience
 * **Undergraduate researcher** at Lab for Informatics, Communications, and Systems, Korea University (*Advisor: Prof. Sang Hyun Lee*)<br/>
 Jan 2018 - Present
     * Message Passing:
-      Leading project on maximization of WSN battery lifetime using graphical model approach to distributed optimization and decision<br/>
-
+      Leading project on maximization of Wireless Sensor Networks' lifetime using graphical model approach to distributed optimization and decision<br/>
+* **Undergraduate researcher** at Wireless & Wired Inter-Networking and Evaluation Lab, Korea University (*Advisor: Prof. Hwangnam Kim*)<br/>
+Sept. 2017 - Dec. 2017
+    * Signal Filtering:
+      Led Project on NLOS UWB signal identification using deep learning which is used for indoor positioning of drone swarms<br/>
+      
 ### Teaching
 * **Teaching Assistant** for Engineering Mathematics I (*Advisor: Prof. Nakju Doh*)<br/>
 Mar. 2017 - June 2017
@@ -55,7 +59,7 @@ Sept. 2013 – Dec. 2013
     * Attended a Model United Nations conference and acted as a delegate of Japan
 * Korea University Tiger's Run (KUTR)<br/>
 *Regular Member*<br/>
-Sept. 2017 – Present
+Sept. 2017 – Aug. 2018
 
 
 ### Work
@@ -87,4 +91,4 @@ Technical Skills
 * Languages: Python, C, C++, MATLAB, Verilog, Assembly(ARM, x86-64), Web(HTML/CSS/JS/React.js)
 * Technologies: SPICE, Quartus, Multisim, Design Vision, Prototyping Applications (Adobe XD)
 
-Last Updated: 14 Sep 2018
+Last Updated: 14 Sept 2018
