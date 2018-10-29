@@ -1,5 +1,6 @@
 Personal Projects
 ----------
+<!-- TODO: Fix line spacing -->
 * [Python] PapagyeInsta
     * Privately following Instagram user using telegram (without showing to my friends I am following someone)
 * [Python] Automatic lettering program to soldiers [\[link\]](https://github.com/Hanuu/lettertosoldier)
@@ -9,10 +10,15 @@ Personal Projects
     * Guidelines are **In Progress**
 * [Verilog] Maze Solving Robot using FPGA
     * Implemented stack using Verilog and make 2-D maze solving robot with four IR proximity sensor.
+    <details><summary>Click to see image!</summary>
+        ![Photo](/projects/photos/maze_robot.jpg)
+    </details>
 * [Android] Custom AOSP development
     * Port unsupported version of Android(4.2) to Nexus S and added useful features in a framework.
 * [Arduino] Music BPM Analyzer
-    * Give response at the certain frequency of music and approximate its BPM.
+    * Give response at the certain frequency of music and approximate its BPM.  
 * [Arduino] Scoring system for Nerdy-Derby contest
     * Calculates lap time for multiple lanes using two IR sensor and store result in DB server.
-    
+        <details><summary>Click to see image!</summary>
+        ![Photo](/projects/photos/nerdy_derby.jpg)
+    </details>
