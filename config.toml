@@ -104,10 +104,22 @@ tag = "tags"
 page = "/:slug/"
 
 [[menu.main]]
-name = "Projects"
+name = "Home"
 weight = -12
+identifier = ""
+url = "/"
+
+[[menu.main]]
+name = "Projects"
+weight = -11
 identifier = "projects"
 url = "/projects/"
+
+[[menu.main]]
+name = "CV"
+weight = -9
+identifier = "CV"
+url = "/CV/"
 
 [blackfriday]
 hrefTargetBlank = true
