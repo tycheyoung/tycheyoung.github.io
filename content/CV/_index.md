@@ -6,8 +6,8 @@ Research Interests
 ---------
 * VLSI Implementation
 * Crowdsensing
-* Edge Computing
-* Swarm Controlling
+* Edge Computing Architecture
+* Distributed Learning
 
 Education
 ---------
@@ -19,9 +19,9 @@ Mar. 2013 - Feb. 2019
 Publications
 ----------
 
-[2] <u>Jaeyoung Kang</u>, Minji Kim, and Sang Hyun Lee, *Maximizing Wireless Sensor Network lifetime by message passing between nodes*, Proceedings of Symposium of the Korean Institute of communications and Information Sciences, 2018.
+[2] <u>Jaeyoung Kang</u>, Minji Kim, and Sang Hyun Lee, *Maximizing Wireless Sensor Network lifetime by message passing between nodes*, Proceedings of Symposium of the Korean Institute of Communications and Information Sciences, 2018. [\[link\]](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07512630)
 
-[1] <u>Jaeyoung Kang</u>, Seungho Yoo, and Hwangnam Kim, *LOS and NLOS classification of UWB signals using CapsNet*, Proceedings of Symposium of the Korean Institute of communications and Information Sciences, 2018.
+[1] <u>Jaeyoung Kang</u>, Seungho Yoo, and Hwangnam Kim, *LOS and NLOS classification of UWB signals using CapsNet*, Proceedings of Symposium of the Korean Institute of Communications and Information Sciences, 2018. [\[link\]](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07368798)
 
 Experience
 ----------
@@ -40,7 +40,7 @@ Sept. 2017 - Dec. 2017
 * **Teaching Assistant** for Engineering Mathematics I (*Advisor: Prof. Nakju Doh*)<br/>
 Mar. 2017 - June 2017
     * Covered fundamental mathematics for engineering, including MATLAB exercises
-    * Had 2 hours of office hour every week, answered questions in person at online, marked exams and assignments
+    * Had two hours of office hour every week, answered questions in person at online, marked exams and assignments
 * **Peer-tutoring Mentor** at Korea University<br/>
 Jan. 2017 - Dec. 2017
     * Circuit Theory I and Data Structure and Algorithm
@@ -50,18 +50,18 @@ Jan. 2017 - Dec. 2017
 * Hardware and Software Club (HandS) [\[about\]](https://hands.korea.ac.kr) [\[board\]](https://hardwareand.software)<br/>
 *Server/Webpage Administrator, Technical Leader*<br/>
 Mar. 2013 - Present
-  * Server Maintaining: Developed club webpage and maintained server. Designed overall architecture and built with Nginx and Ruby, and used applicative multiplexer to use various protocols
+  * Server Maintaining: Developed society webpage and maintained server. Designed overall architecture built with Nginx and Ruby, and used applicative multiplexer to use various protocols
   * Mentoring: Taught fundamental skills such as C, project managing, machine learning basics to help freshmen start personal projects
 * Korea University Student Welfare Committee<br/>
 *Regular Member*<br/>
 Sept. 2016 – Apr. 2017
     * Received a volunteer scholarship for managing school bulletin board
-    * Did various projects to improve schoolmate’s welfare
+    * Participated various projects to improve schoolmate’s welfare
 * Korea University United Nations Student Association<br/>
 *Regular Member*<br/>
 Sept. 2013 – Dec. 2013
     * Discussed a variety of topics in the international community
-    * Attended a Model United Nations conference and acted as delegate of Japan
+    * Participated a Model United Nations conference and acted as delegate of Japan
 * Korea University Tiger's Run (KUTR)<br/>
 *Regular Member*<br/>
 Sept. 2017 – Aug. 2018
@@ -78,4 +78,4 @@ Technical Skills
 * Languages: Python, C, C++, MATLAB, Verilog, Assembly(ARM, x86-64), Web(HTML/CSS/JS/React.js)
 * Technologies: SPICE, Quartus, Multisim, Design Vision, Prototyping Applications (Adobe XD)
 
-Last Updated: 14 Sept 2018
+Last Updated: 6 Nov 2018

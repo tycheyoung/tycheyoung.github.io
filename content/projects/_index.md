@@ -9,16 +9,16 @@ Personal Projects
     * Making 64 bit OS starting from bootloader by following step-by-step guide
     * Guidelines are **In Progress**
 * [Verilog] Maze Solving Robot using FPGA
-    * Implemented stack using Verilog and make 2-D maze solving robot with four IR proximity sensor.
+    * Implemented stack using Verilog and make 2-D maze solving robot with four IR proximity sensor
     <details><summary>Click to see image!</summary>
         ![Photo](/projects/photos/maze_robot.jpg)
     </details>
 * [Android] Custom AOSP development
-    * Port unsupported version of Android(4.2) to Nexus S and added useful features in a framework.
+    * Ported unsupported version of Android(4.2) to Nexus S and added features in framework and System UI
 * [Arduino] Music BPM Analyzer
-    * Give response at the certain frequency of music and approximate its BPM.  
+    * Implemented FFT and approximated BPM of music
 * [Arduino] Scoring system for Nerdy-Derby contest
-    * Calculates lap time for multiple lanes using two IR sensor and store result in DB server.
+    * Built contest scoring system which calculates lap time for multiple lanes using two IR sensor and store result in server
         <details><summary>Click to see image!</summary>
         ![Photo](/projects/photos/nerdy_derby.jpg)
     </details>
