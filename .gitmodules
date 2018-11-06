@@ -3,5 +3,5 @@
 	url = https://github.com/MunifTanjim/minimo
 [submodule "public"]
 	path = public
-	url = git@github.com:tycheyoung/tycheyoung.github.io.git
+	url = git@github.com:tycheyoung@tycheyoung.github.io.git
 	branch = master
