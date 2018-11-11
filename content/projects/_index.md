@@ -16,7 +16,7 @@ Personal Projects
 * [Android] Custom AOSP development
     * Ported unsupported version of Android(4.2) to Nexus S and added features in framework and System UI
 * [Arduino] Music BPM Analyzer
-    * Implemented FFT and approximated BPM of music
+    * Real-time music Beats Per Minute (BPM) estimator and genre classifier
 * [Arduino] Scoring system for Nerdy-Derby contest
     * Built contest scoring system which calculates lap time for multiple lanes using two IR sensor and store result in server
         <details><summary>Click to see image!</summary>
