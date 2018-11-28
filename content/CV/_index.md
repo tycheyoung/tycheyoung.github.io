@@ -19,6 +19,9 @@ Mar. 2013 - Feb. 2019
 Publications
 ----------
 
+[3] <u>Jaeyoung Kang</u>, Illsoo Sohn, and Sang Hyun Lee, *Enhanced Message-Passing Based LEACH Protocol for Wireless Sensor Networks*, Sensors, Under revision, 2018. [\[link\]]
+(about:blank)
+
 [2] <u>Jaeyoung Kang</u>, Minji Kim, and Sang Hyun Lee, *Maximizing Wireless Sensor Network lifetime by message passing between nodes*, Proceedings of Symposium of the Korean Institute of Communications and Information Sciences, 2018. [\[link\]](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07512630)
 
 [1] <u>Jaeyoung Kang</u>, Seungho Yoo, and Hwangnam Kim, *LOS and NLOS classification of UWB signals using CapsNet*, Proceedings of Symposium of the Korean Institute of Communications and Information Sciences, 2018. [\[link\]](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07368798)
