@@ -4,17 +4,18 @@ weight: -270
 ---
 Research Interests
 ---------
-* VLSI Implementation
+* Networked Embedded Systems
 * Crowdsensing
 * Edge Computing Architecture
 * Distributed Learning
+* VLSI Implementation
 
 Education
 ---------
 * **<U>Korea University</U>**<br/>
 Mar. 2013 - Feb. 2019
     * Candidate for B.E. Degree in Electrical Engineering
-    * Relevant Coursework: Digital IC Design, VLSI Design, Microelectronic Circuits, Computer Architecture, Operating System, Data Structure and Algorithm, Microwave Engineering, Signal Processing, Communication Theory, Compiler (Audited)
+    * Relevant Coursework: Digital IC Design, VLSI Design, Microelectronic Circuits, Computer Architecture, Operating System, Data Structure and Algorithm, Microwave Engineering, Signal Processing, Communication Theory
 
 Publications
 ----------
@@ -53,6 +54,7 @@ Jan. 2017 - Dec. 2017
 * Hardware and Software Club (HandS) [\[about\]](https://hands.korea.ac.kr) [\[board\]](https://hardwareand.software)<br/>
 *Server/Webpage Administrator, Technical Leader*<br/>
 Mar. 2013 - Present
+  * Hands-on project: Presented personal projects at annual exhibition
   * Server Maintaining: Developed society webpage and maintained server. Designed overall architecture built with Nginx and Ruby, and used applicative multiplexer to use various protocols
   * Mentoring: Taught fundamental skills such as C, project managing, machine learning basics to help freshmen start personal projects
 * Korea University Student Welfare Committee<br/>
@@ -85,4 +87,4 @@ Language Skills
 ----------
 * Korean (Native), English (Fluent), Mandarin (Novice)
 
-Last Updated: 2 Dec 2018
+Last Updated: 19 Dec 2018
