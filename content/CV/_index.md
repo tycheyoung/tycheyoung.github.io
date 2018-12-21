@@ -20,8 +20,8 @@ Mar. 2013 - Feb. 2019
 Publications
 ----------
 
-<!-- [3] <u>Jaeyoung Kang</u>, Illsoo Sohn, and Sang Hyun Lee, *Enhanced Message-Passing Based LEACH Protocol for Wireless Sensor Networks*, Sensors, Under revision, 2018. [\[LINK\]]
-(about:blank) -->
+[3] <u>Jaeyoung Kang</u>, Illsoo Sohn, and Sang Hyun Lee, *Enhanced Message-Passing Based LEACH Protocol for Wireless Sensor Networks*, Sensors, 2018. 
+<!-- [\[LINK\]](about:blank) -->
 
 [2] <u>Jaeyoung Kang</u>, Minji Kim, and Sang Hyun Lee, *Maximizing Wireless Sensor Network lifetime by message passing between nodes*, Proceedings of Symposium of the Korean Institute of Communications and Information Sciences, 2018. [\[LINK\]](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07512630)
 
@@ -41,7 +41,7 @@ Sept. 2017 - Dec. 2017
       Led project on NLOS UWB signal identification using deep learning for indoor positioning of drone swarms<br/>
       
 ### Teaching
-* **Teaching Assistant** for Engineering Mathematics I (*Advisor: Prof. Nakju Doh*)<br/>
+* **Teaching Assistant** for Engineering Mathematics I (*Advisor: Prof. Nakju Lett Doh*)<br/>
 Mar. 2017 - June 2017
     * Covered fundamental mathematics for engineering, including MATLAB exercises
     * Had two hours of office hour every week, answered questions in person at online, marked exams and assignments
@@ -87,4 +87,4 @@ Language Skills
 ----------
 * Korean (Native), English (Fluent), Mandarin (Novice)
 
-Last Updated: 19 Dec 2018
+Last Updated: 21 Dec 2018
