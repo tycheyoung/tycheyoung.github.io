@@ -21,7 +21,7 @@ Publications
 ----------
 
 [3] <u>Jaeyoung Kang</u>, Illsoo Sohn, and Sang Hyun Lee, *Enhanced Message-Passing Based LEACH Protocol for Wireless Sensor Networks*, Sensors, 2018. 
-<!-- [\[LINK\]](about:blank) -->
+[\[LINK\]](https://www.mdpi.com/1424-8220/19/1/75)
 
 [2] <u>Jaeyoung Kang</u>, Minji Kim, and Sang Hyun Lee, *Maximizing Wireless Sensor Network lifetime by message passing between nodes*, Proceedings of Symposium of the Korean Institute of Communications and Information Sciences, 2018. [\[LINK\]](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07512630)
 
