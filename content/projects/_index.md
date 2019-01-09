@@ -1,8 +1,8 @@
 Personal Projects
 ----------
 <!-- TODO: Fix line spacing -->
-* [Python] PapagyeInsta
-    * Making personalized Instagram timeline in Telegram [\[LINK\]](https://github.com/tycheyoung/instagram-timeline-bot)
+* [Python] PapagyeInsta [\[LINK\]](https://github.com/tycheyoung/instagram-timeline-bot)
+    * Making personalized Instagram timeline in Telegram
 * [Python] Automatic lettering program to soldiers [\[LINK\]](https://github.com/Hanuu/lettertosoldier)
     * Automatically send news and popular Facebook posts, and text files to soldiers who are in ROKA Basic Training Academy Center in Nonsan
 * [C/ASM] Making 64bit Operating System [\[LINK\]](https://github.com/tycheyoung/64bit_os)
