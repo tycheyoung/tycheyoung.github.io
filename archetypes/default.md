@@ -4,3 +4,4 @@ date: {{ .Date }}
 draft: true
 ---
 
+This is placeholder.
