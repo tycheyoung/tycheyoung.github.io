@@ -49,6 +49,8 @@ Mar. 2013 - Present
   * Hands-on project: Presented personal projects at annual exhibition
   * Server Maintaining: Developed society webpage and maintained server. Designed overall architecture built with Nginx and Ruby, and used applicative multiplexer to use various protocols
   * Mentoring: Taught fundamental skills such as C, project managing, machine learning basics to help freshmen start personal projects
+
+<!--   
 * Korea University Student Welfare Committee<br/>
 *Regular Member*<br/>
 Sept. 2016 – Apr. 2017
@@ -61,7 +63,7 @@ Sept. 2013 – Dec. 2013
     * Participated a Model United Nations conference and acted as delegate of Japan
 * Korea University Tiger's Run (KUTR)<br/>
 *Regular Member*<br/>
-Sept. 2017 – Aug. 2018
+Sept. 2017 – Aug. 2018 -->
 
 
 ### Work
