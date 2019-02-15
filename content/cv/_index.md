@@ -24,13 +24,15 @@ Experience
 
 ### Research
 * **Undergraduate researcher** at Lab for Informatics, Communications, and Systems, Korea University (*Advisor: Prof. Sang Hyun Lee*)<br/>
-Jan. 2018 - Present
+Jan. 2018 - Dec. 2018
     * Message Passing:
       Led project on lifetime maximization of wireless sensor networks using message-passing algorithm and graphical model approach to distributed optimization and decision<br/>
+      
+<!--       
 * **Undergraduate researcher** at Wireless & Wired Inter-Networking and Evaluation Lab, Korea University (*Advisor: Prof. Hwangnam Kim*)<br/>
 Sept. 2017 - Dec. 2017
     * Signal Filtering:
-      Led project on NLOS UWB signal identification using deep learning for indoor positioning of drone swarms<br/>
+      Led project on NLOS UWB signal identification using deep learning for indoor positioning of drone swarms<br/> -->
       
 ### Teaching
 * **Teaching Assistant** for Engineering Mathematics I (*Advisor: Prof. Nakju Lett Doh*)<br/>
@@ -65,12 +67,12 @@ Sept. 2013 – Dec. 2013
 *Regular Member*<br/>
 Sept. 2017 – Aug. 2018 -->
 
-
+<!-- 
 ### Work
 * Republic of Korea Air Force<br/>
 Aug. 2014 - Aug. 2016
   * Worked at Air Base Communication Control Office, Sergeant
-  * Managed maintenance schedule for tactical communications equipment such as RADAR/TACAN/TRS
+  * Managed maintenance schedule for tactical communications equipment such as RADAR/TACAN/TRS -->
 
 Technical Skills
 ----------
