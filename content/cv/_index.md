@@ -23,8 +23,8 @@ Experience
 ----------
 
 ### Research
-* **Undergraduate researcher** at Lab for Informatics, Communications, and Systems, Korea University (*Advisor: Prof. Sang Hyun Lee*)<br/>
-Jan. 2018 - Dec. 2018
+* **Research Intern** at Lab for Informatics, Communications, and Systems, Korea University (*Advisor: Prof. Sang Hyun Lee*)<br/>
+Jan. 2018 - Present
     * Message Passing:
       Led project on lifetime maximization of wireless sensor networks using message-passing algorithm and graphical model approach to distributed optimization and decision<br/>
       
@@ -83,4 +83,4 @@ Language Skills
 ----------
 * Korean (Native), English (Fluent), Mandarin (Novice)
 
-Last Updated: 15 Feb 2019
+Last Updated: 15 Apr 2019
