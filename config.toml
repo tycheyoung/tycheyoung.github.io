@@ -22,7 +22,7 @@ enableEmoji = true
 defaultContentLanguage = "en"
 
 [params.info]
-description = "B.E. Student at Korea University"
+description = "Ph.D. Student at UC San Diego"
 title404 = "N/A"
 
 [params.assets]
@@ -73,14 +73,14 @@ titleSeparator = "•"
 
 [params.social]
 # codepen = "MunifTanjim"
-email = "retbird13@gmail.com"
+email = "j5kang@ucsd.edu"
 # facebook = "MunifTanjim"
 github = "tycheyoung"
 # gitlab = "MunifTanjim"
 # instagram = "MunifTanjim"
 linkedin = "jaeyoung-kang-ku"
 # twitter = "MunifTanjim"
-# telegram = "iliketuna"
+# telegram = ""
 google_scholar = "bHe7vhgAAAAJ"
 # youtube = "UCT-U0rNerYxItGcuoPX-WYA"
 
@@ -138,12 +138,6 @@ name = "CV"
 weight = -12
 identifier = "CV"
 url = "/cv/"
-
-[[menu.main]]
-name = "Projects"
-weight = -11
-identifier = "projects"
-url = "/projects/"
 
 [[menu.main]]
 name = "Notes"

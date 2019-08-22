@@ -24,7 +24,7 @@ Experience
 
 ### Research
 * **Research Intern** at Lab for Informatics, Communications, and Systems, Korea University (*Advisor: Prof. Sang Hyun Lee*)<br/>
-Jan. 2018 - Present
+Jan. 2018 - Aug. 2019
     * Message Passing:
       Led project on lifetime maximization of wireless sensor networks using message-passing algorithm and graphical model approach to distributed optimization and decision<br/>
       
@@ -67,12 +67,11 @@ Sept. 2013 – Dec. 2013
 *Regular Member*<br/>
 Sept. 2017 – Aug. 2018 -->
 
-<!-- 
+
 ### Work
-* Republic of Korea Air Force<br/>
-Aug. 2014 - Aug. 2016
-  * Worked at Air Base Communication Control Office, Sergeant
-  * Managed maintenance schedule for tactical communications equipment such as RADAR/TACAN/TRS -->
+* **Data Engineer** at Korea University<br/>
+May 2019 - Aug. 2019
+  * Data Warehousing: Built ETL process between heterogeneous databases, RESTful API services
 
 Technical Skills
 ----------
@@ -83,4 +82,4 @@ Language Skills
 ----------
 * Korean (Native), English (Fluent), Mandarin (Novice)
 
-Last Updated: 15 Apr 2019
+Last Updated: 15 Aug 2019
