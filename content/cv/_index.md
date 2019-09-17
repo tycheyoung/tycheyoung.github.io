@@ -1,16 +1,20 @@
-Research Interests
----------
-Networked Embedded Systems, Mobile Computing, Distributed Learning, Network Architecture, VLSI Implementation
+CV [\[PDF\]](/cv/CV.pdf)
 
 Education
 ---------
+* **<U>University of California, San Diego</U>**<br/>
+Sept. 2019 - Present
+    * Ph.D. Student in **Electrical and Computer Engineering**
+
 * **<U>Korea University</U>**<br/>
 Mar. 2013 - Feb. 2019
-    * Bachelor of Engineering in **Electrical Engineering**
+    * Bachelor of Engineering in **Electrical Engineering**, Graduated with Great Honor
     * Relevant Coursework: Digital IC Design, VLSI Design, Microelectronic Circuits, Computer Architecture, Operating System, Data Structure and Algorithm, Microwave Engineering, Signal Processing, Communication Theory
 
 Publications
 ----------
+
+[4] <u>Jaeyoung Kang</u>, Illsoo Sohn, and Sang Hyun Lee, *Data Compression-considered LEACH Protocol for Wireless Sensor Networks*, JCCI, 2019. 
 
 [3] <u>Jaeyoung Kang</u>, Illsoo Sohn, and Sang Hyun Lee, *Enhanced Message-Passing Based LEACH Protocol for Wireless Sensor Networks*, Sensors, 2018. 
 [\[LINK\]](https://www.mdpi.com/1424-8220/19/1/75)
@@ -71,15 +75,15 @@ Sept. 2017 – Aug. 2018 -->
 ### Work
 * **Data Engineer** at Korea University<br/>
 May 2019 - Aug. 2019
-  * Data Warehousing: Built ETL process between heterogeneous databases, RESTful API services
+  * Data Warehousing: Designed ETL pipeline and REST API in data warehouse for integrating and managing campus data
 
 Technical Skills
 ----------
-* Languages: Python, C, MATLAB, Verilog, Assembly(ARM, x86-64), Web(HTML/CSS/JS/React.js)
-* Technologies: Spectre, SPICE, Quartus, Multisim, Design Vision, Prototyping Applications (Adobe XD)
+* Languages: Python, C, MATLAB, Verilog, LaTeX, ARM Assembly (ADS), React.js
+* Technologies: Spectre, SPICE, Quartus, Multisim, Design Vision
 
 Language Skills
 ----------
 * Korean (Native), English (Fluent), Mandarin (Novice)
 
-Last Updated: 15 Aug 2019
+Last Updated: 05 Sept 2019
