@@ -5,7 +5,6 @@ Education
 * **<U>University of California, San Diego</U>**<br/>
 Sept. 2019 - Present
     * Ph.D. Student in **Electrical and Computer Engineering**
-
 * **<U>Korea University</U>**<br/>
 Mar. 2013 - Feb. 2019
     * Bachelor of Engineering in **Electrical Engineering**, Graduated with Great Honor
@@ -75,7 +74,7 @@ Sept. 2017 – Aug. 2018 -->
 ### Work
 * **Data Engineer** at Korea University<br/>
 May 2019 - Aug. 2019
-  * Data Warehousing: Designed ETL pipeline and REST API in data warehouse for integrating and managing campus data
+  * Data Warehousing: Designed ETL pipeline and RESTful API in data warehouse for integrating and managing campus data
 
 Technical Skills
 ----------
