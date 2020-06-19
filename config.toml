@@ -1,5 +1,5 @@
 baseURL = "http://tycheyoung.github.io"
-title = "Jaeyoung Kang"
+title = ""
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
 
@@ -22,14 +22,18 @@ enableEmoji = true
 defaultContentLanguage = "en"
 
 [params.info]
-description = "Ph.D. Student at UC San Diego"
+description = ""
 title404 = "N/A"
 
 [params.assets]
 favicon = ["static/favicon.ico"]
-customCSS = ["css/custom.css"]
-customJS = ["js/custom.js"]
+customCSS = ["static/css/custom.css"]
+customJS = ["static/js/custom.js"]
 gopher = "" # used in 404 template ( Generator: https://gopherize.me )
+
+[[params.customCSS]]
+ href = "static/css/custom.css"
+
 
 [params.copyright]
 prefix = ""
@@ -56,7 +60,7 @@ enable = true
 [params.widgets]
 header = []
 homepage = []
-sidebar = ["sidebar_menu","recent_posts","taxonomy_cloud"]
+sidebar = ["about", "sidebar_menu","recent_posts"]
 footer = ["social_menu"]
 
 [params.opengraph.facebook]
@@ -97,7 +101,7 @@ dataAttrs = "" # "data-isso='https://isso.example.com' data-isso-require-author=
 enable = false
 apiEndpoint = "https://api.staticman.net/v2/entry"
 maxDepth = 2
-username = "MunifTanjim"
+username = "tycheyoung"
 repository = "minimo"
 branch = "master"
 
@@ -132,18 +136,6 @@ name = "HOME"
 weight = -13
 identifier = "HOME"
 url = "/"
-
-[[menu.main]]
-name = "CV"
-weight = -12
-identifier = "CV"
-url = "/cv/"
-
-[[menu.main]]
-name = "Notes"
-weight = -10
-identifier = ""
-url = "/notes/"
 
 [blackfriday]
 hrefTargetBlank = true

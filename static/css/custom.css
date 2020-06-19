@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "Helvetica Neue"，"Arial",  "STHeiti Light ", "Microsoft YaHei", sans-serif;
+  }
+body {
+    font-family:  "Helvetica Neue", "Arial", "STHeiti Light", "Microsoft YaHei"
+}
+blockquote {
+    font-size: .95em;
+}
+
+.container{
+    max-width: 900px
+}
+
