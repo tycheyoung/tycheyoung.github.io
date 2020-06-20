@@ -1,3 +1,6 @@
+---
+toc: true
+---
 ### Education
 
 * **University of California, San Diego**\
@@ -20,14 +23,14 @@ Mar. 2013 - Feb. 2019
 [KC1] <ins>J. Kang</ins>, S. Yoo, and H. Kim, *LOS and NLOS classification of UWB signals using CapsNet*, Proceedings of Symposium of the Korean Institute of Communications and Information Sciences, 2018. [\[LINK\]](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07368798)
 
 ### Work/Research Experience
-* **Graduate Student Researcher** at System Energy Effciency Lab, UC San Diego (*Advisor: Prof. Tajana Simunic Rosing*)\
+* **Graduate Student Researcher** at [System Energy Effciency Lab](http://seelab.ucsd.edu), UC San Diego (*Advisor: Prof. Tajana Simunic Rosing*)\
 Jan. 2020 - Present
     - Acceleration of DNA sequence alignment for protein and nucleotide database on HPC systems
     - Accuracy enhancement and acceleration of hyperdimensional computing algorithms on GPU with High Bandwidth Memory
 * **Summer Research Intern** at System Architecture Research Group, SK Hynix\
 June 2020 - Present
     <!-- - Acceleration of DNA sequence alignment for protein and nucleotide database on HPC systems -->
-* **Research Intern** at Lab for Informatics, Communications, and Systems, Korea University (*Advisor: Prof. Sang Hyun Lee*)\
+* **Research Intern** at [Lab for Informatics, Communications, and Systems](https://sites.google.com/view/licswww), Korea University (*Advisor: Prof. Sang Hyun Lee*)\
 Jan. 2018 - Aug. 2019
     - Message Passing:
       Led project on lifetime maximization of wireless sensor networks using message-passing algorithm and graphical model approach to distributed optimization and decision
@@ -40,21 +43,23 @@ May 2019 - Aug. 2019
 * **Peer-tutoring Mentor** for Circuit Theory I (Spring 2017)
 * **Peer-tutoring Mentor** for Data Structure and Algorithm (Fall 2017)
 
+<!-- 
 ### Extracurricular
 * Hardware and Software Club (HandS) [\[about\]](https://hands.korea.ac.kr) [\[board\]](https://hardwareand.software)\
 *Server/Webpage Administrator, Technical Leader*\
 Mar. 2013 - Dec. 2018
   * Hands-on project: Presented personal projects at annual exhibition
   * Server Maintaining: Developed society webpage and maintained server. Designed overall architecture built with Nginx and Ruby, and used applicative multiplexer to use various protocols
-  * Mentoring: Taught fundamental skills such as C, project management, machine learning basics to help freshmen start personal projects
+  * Mentoring: Taught fundamental skills such as C, project management, machine learning basics to help freshmen start personal projects -->
 
+<!-- 
 Technical Skills
 ----------
 * Languages: C, C++, CUDA, Python, MATLAB, Verilog, ARM Assembly, React.js
-* Technologies: Spectre, SPICE, Quartus, Multisim, Design Compiler
+* Technologies: Spectre, SPICE, Quartus, Multisim, Design Compiler -->
 
-Language Skills
+<!-- Language Skills
 ----------
-* Korean (Native), English (Fluent), Mandarin (Novice)
+* Korean (Native), English (Fluent), Mandarin (Novice) -->
 
 Last Updated: 19 June 2020

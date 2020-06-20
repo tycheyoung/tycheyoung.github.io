@@ -26,14 +26,10 @@ description = ""
 title404 = "N/A"
 
 [params.assets]
-favicon = ["static/favicon.ico"]
-customCSS = ["static/css/custom.css"]
-customJS = ["static/js/custom.js"]
+favicon = ["favicon.ico"]
+customCSS = ["css/custom.css"]
+customJS = ["js/custom.js"]
 gopher = "" # used in 404 template ( Generator: https://gopherize.me )
-
-[[params.customCSS]]
- href = "static/css/custom.css"
-
 
 [params.copyright]
 prefix = ""
@@ -136,6 +132,13 @@ name = "HOME"
 weight = -13
 identifier = "HOME"
 url = "/"
+
+[[menu.main]]
+name = "NEWS"
+weight = -12
+identifier = "NEWS"
+url = "/news"
+
 
 [blackfriday]
 hrefTargetBlank = true
