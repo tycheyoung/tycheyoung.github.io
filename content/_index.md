@@ -16,6 +16,7 @@ Mar. 2013 - Feb. 2019
 [\[LINK\]](https://www.mdpi.com/1424-8220/19/1/75)
 
 ###### International Conference
+  - [C2] S. Salamat, <ins>J. Kang</ins>, Y. Kim, and T. Rosing, FPGA Acceleration of Protein Back-Translation and Alignment, In DATE, 2021.
   - [C1] Y. Guo, M. Imani, <ins>J. Kang</ins>, Y. Kim, S. Salamat, J. Morris, B. Aksanli and T. Rosing, HyperRec: Efficient Recommender Systems with Hyperdimensional Computing, In ASP-DAC, 2021.
 ###### Domestic Conference
   - [KC3] <ins>J. Kang</ins>, I. Sohn, and S. H. Lee, *Data Compression-considered LEACH Protocol for Wireless Sensor Networks*, JCCI, 2019. 
@@ -62,4 +63,4 @@ Technical Skills
 ----------
 * Korean (Native), English (Fluent), Mandarin (Novice) -->
 
-Last Updated: 19 June 2020
+Last Updated: 19 Nov 2020
