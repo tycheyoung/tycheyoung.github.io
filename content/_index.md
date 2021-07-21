@@ -30,8 +30,10 @@ Mar. 2013 - Feb. 2019
 Jan. 2020 - Present
     - Acceleration of DNA sequence alignment for protein and nucleotide database on HPC systems
     - Accuracy enhancement and acceleration of hyperdimensional computing algorithms on GPU with High Bandwidth Memory
-* **Summer Research Intern** at System Architecture Research Group, SK Hynix\
-June 2020 - Present
+* **Co-op/Intern** at Radeon Technologies Group, AMD\
+June 2021 - Sept. 2021 
+* **Research Intern** at System Architecture Research Group, SK Hynix\
+June 2020 - Sept. 2020 
     <!-- - Acceleration of DNA sequence alignment for protein and nucleotide database on HPC systems -->
 * **Research Intern** at [Lab for Informatics, Communications, and Systems](https://sites.google.com/view/licswww), Korea University (*Advisor: Prof. Sang Hyun Lee*)\
 Jan. 2018 - Aug. 2019
@@ -65,4 +67,4 @@ Technical Skills
 ----------
 * Korean (Native), English (Fluent), Mandarin (Novice) -->
 
-Last Updated: 19 Nov 2020
+Last Updated: 17 July 2021
