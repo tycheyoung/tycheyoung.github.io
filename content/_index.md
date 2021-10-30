@@ -13,16 +13,18 @@ Mar. 2013 - Feb. 2019
 
 ### Publications
 ###### International Journal
-  - [J1] <ins>J. Kang</ins>, I. Sohn, and S. H. Lee, *Enhanced Message-Passing Based LEACH Protocol for Wireless Sensor Networks*, Sensors, 2018. 
+  - [J2] S. Gupta, M. Imani, J. Sim, A. Huang, F. Wu, **J. Kang**, Y. Kim, and S. H. Lee, COSMO: Computing with Stochastic Numbers in Memory, ACM Journal on Emerging Technologies in Computing Systems, Accepted.
+  - [J1] **J. Kang**, I. Sohn, and S. H. Lee, Enhanced Message-Passing Based LEACH Protocol for Wireless Sensor Networks, Sensors, 2018. 
 [\[LINK\]](https://www.mdpi.com/1424-8220/19/1/75)
 
 ###### International Conference
-  - [C2] S. Salamat, <ins>J. Kang</ins>, Y. Kim, M. Imani, N. Moshiri, and T. Rosing, FPGA Acceleration of Protein Back-Translation and Alignment, In DATE, 2021.
-  - [C1] Y. Guo, M. Imani, <ins>J. Kang</ins>, Y. Kim, S. Salamat, J. Morris, B. Aksanli and T. Rosing, HyperRec: Efficient Recommender Systems with Hyperdimensional Computing, In ASP-DAC, 2021.
+  - [C3] **J. Kang**, B. Khaleghi, Y. Kim, and T. Rosing, XCelHD: An Efficient GPU-Powered Hyperdimensional Computing with Parallelized Training, ASP-DAC 2022.
+  - [C2] S. Salamat, **J. Kang**, Y. Kim, M. Imani, N. Moshiri, and T. Rosing, FPGA Acceleration of Protein Back-Translation and Alignment, DATE 2021.
+  - [C1] Y. Guo, M. Imani, **J. Kang**, Y. Kim, S. Salamat, J. Morris, B. Aksanli and T. Rosing, HyperRec: Efficient Recommender Systems with Hyperdimensional Computing, ASP-DAC 2021.
 ###### Domestic Conference
-  - [KC3] <ins>J. Kang</ins>, I. Sohn, and S. H. Lee, *Data Compression-considered LEACH Protocol for Wireless Sensor Networks*, JCCI, 2019. 
-  - [KC2] <ins>J. Kang</ins>, M. Kim, and S. H. Lee, *Maximizing Wireless Sensor Network lifetime by message passing between nodes*, Proceedings of Symposium of the Korean Institute of Communications and Information Sciences, 2018. [\[LINK\]](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07512630)
-  - [KC1] <ins>J. Kang</ins>, S. Yoo, and H. Kim, *LOS and NLOS classification of UWB signals using CapsNet*, Proceedings of Symposium of the Korean Institute of Communications and Information Sciences, 2018. [\[LINK\]](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07368798)
+  - [KC3] **J. Kang**, I. Sohn, and S. H. Lee, Data Compression-considered LEACH Protocol for Wireless Sensor Networks, JCCI, 2019. 
+  - [KC2] **J. Kang**, M. Kim, and S. H. Lee, Maximizing Wireless Sensor Network lifetime by message passing between nodes, Proceedings of Symposium of the Korean Institute of Communications and Information Sciences, 2018. [\[LINK\]](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07512630)
+  - [KC1] **J. Kang**, S. Yoo, and H. Kim, LOS and NLOS classification of UWB signals using CapsNet, Proceedings of Symposium of the Korean Institute of Communications and Information Sciences, 2018. [\[LINK\]](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07368798)
 
 
 ### Work/Research Experience
@@ -67,4 +69,4 @@ Technical Skills
 ----------
 * Korean (Native), English (Fluent), Mandarin (Novice) -->
 
-Last Updated: 17 July 2021
+Last Updated: 11 Sept 2021
