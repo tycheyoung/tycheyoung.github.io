@@ -13,18 +13,25 @@ Mar. 2013 - Feb. 2019
 
 ### Publications
 ###### International Journal
-  - [J2] S. Gupta, M. Imani, J. Sim, A. Huang, F. Wu, **J. Kang**, Y. Kim, and S. H. Lee, COSMO: Computing with Stochastic Numbers in Memory, ACM Journal on Emerging Technologies in Computing Systems, Accepted.
-  - [J1] **J. Kang**, I. Sohn, and S. H. Lee, Enhanced Message-Passing Based LEACH Protocol for Wireless Sensor Networks, Sensors, 2018. 
+  - [J4] G. Armstrong, C. Martino, J. Morris, B. Khaleghi, **J. Kang**, J. Dereus, Q. Zhu, D. Roush, D. McDonald, A. Gonzalez, J. P Shaffer, C. Carpenter, M. Estaki, S. Wandro, S. Eilert, A. Akel, J. Eno, K. Curewitz, A. D Swafford, N. Moshiri, T. Rosing, R. Knight, *Swapping metagenomics preprocessing pipeline components offers speed and sensitivity increases*, to appear in American Society for Microbiology mSystems Journal, 2022
+  - [J3] S. Gupta, B. Khaleghi, S. Salamat, J. Morris, R. Ramkumar, J. Yu, A. Tiwari, **J. Kang**, M. Imani, B. Akansali and T. Rosing, *Store-n-Learn: Classification and Clustering with Hyperdimensional Computing across Flash Hierarchy*, ACM Transactions on Embedded Computing Systems, Accepted.
+  - [J2] S. Gupta, M. Imani, J. Sim, A. Huang, F. Wu, **J. Kang**, Y. Kim, and T. Rosing, *COSMO: Computing with Stochastic Numbers in Memory*, ACM Journal on Emerging Technologies in Computing Systems (JETC), Accepted.
+  - [J1] **J. Kang**, I. Sohn, and S. H. Lee, *Enhanced Message-Passing Based LEACH Protocol for Wireless Sensor Networks*, Sensors, 2018. 
 [\[LINK\]](https://www.mdpi.com/1424-8220/19/1/75)
 
 ###### International Conference
-  - [C3] **J. Kang**, B. Khaleghi, Y. Kim, and T. Rosing, XCelHD: An Efficient GPU-Powered Hyperdimensional Computing with Parallelized Training, ASP-DAC 2022.
-  - [C2] S. Salamat, **J. Kang**, Y. Kim, M. Imani, N. Moshiri, and T. Rosing, FPGA Acceleration of Protein Back-Translation and Alignment, DATE 2021.
-  - [C1] Y. Guo, M. Imani, **J. Kang**, Y. Kim, S. Salamat, J. Morris, B. Aksanli and T. Rosing, HyperRec: Efficient Recommender Systems with Hyperdimensional Computing, ASP-DAC 2021.
+  - [C8] R. Chandrasekaran, K. Ergun, J. Lee, D. Nanjunda, **J. Kang** and T. Rosing, *FHDnn: Communication Efficient and Robust Federated Learning for AIoT Networks*, In Design Automation Conference (DAC), 2022.
+  - [C7] W. Xu, **J. Kang** and T. Rosing, *A Near-Storage Framework for Boosted Data Preprocessing of Mass Spectrum Clustering*, In Design Automation Conference (DAC), 2022.
+  - [C6] B. Khaleghi, U. Mallappa, D. Yaldiz, H. Yang, M. Shah, **J. Kang** and T. Rosing, *PatterNet: Explore and Exploit Filter Patterns for Efficient Deep Neural Networks*, In Design Automation Conference (DAC), 2022.
+  - [C5] B. Khaleghi, **J. Kang**, H. Xu, J. Morris and T. Rosing, *GENERIC: Highly Efficient Learning Engine on Edge using Hyperdimensional Computing*, In Design Automation Conference (DAC), 2022.
+  - [C4] M. Zhou, W. Xu, **J. Kang** and T. Rosing, *TransPIM: A Memory-based Acceleration via Software-Hardware Co-Design for Transformer*, In HPCA, 2022.
+  - [C3] **J. Kang**, B. Khaleghi, Y. Kim, T. Rosing, *XCelHD: An Efficient GPU-Powered Hyperdimensional Computing with Parallelized Training*, In ASP-DAC, 2022.
+  - [C2] S. Salamat, **J. Kang**, Y. Kim, M. Imani, N. Moshiri, and T. Rosing, *FPGA Acceleration of Protein Back-Translation and Alignment*, In DATE, 2021.
+  - [C1] Y. Guo, M. Imani, **J. Kang**, Y. Kim, S. Salamat, J. Morris, B. Aksanli and T. Rosing, *HyperRec: Efficient Recommender Systems with Hyperdimensional Computing*, In ASP-DAC, 2021.
 ###### Domestic Conference
-  - [KC3] **J. Kang**, I. Sohn, and S. H. Lee, Data Compression-considered LEACH Protocol for Wireless Sensor Networks, JCCI, 2019. 
-  - [KC2] **J. Kang**, M. Kim, and S. H. Lee, Maximizing Wireless Sensor Network lifetime by message passing between nodes, Proceedings of Symposium of the Korean Institute of Communications and Information Sciences, 2018. [\[LINK\]](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07512630)
-  - [KC1] **J. Kang**, S. Yoo, and H. Kim, LOS and NLOS classification of UWB signals using CapsNet, Proceedings of Symposium of the Korean Institute of Communications and Information Sciences, 2018. [\[LINK\]](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07368798)
+  - [KC3] **J. Kang**, I. Sohn, and S. H. Lee, *Data Compression-considered LEACH Protocol for Wireless Sensor Networks*, JCCI, 2019. 
+  - [KC2] **J. Kang**, M. Kim, and S. H. Lee, *Maximizing Wireless Sensor Network lifetime by message passing between nodes*, Proceedings of Symposium of the Korean Institute of Communications and Information Sciences, 2018. [\[LINK\]](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07512630)
+  - [KC1] **J. Kang**, S. Yoo, and H. Kim, *LOS and NLOS classification of UWB signals using CapsNet*, Proceedings of Symposium of the Korean Institute of Communications and Information Sciences, 2018. [\[LINK\]](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07368798)
 
 
 ### Work/Research Experience
@@ -69,4 +76,4 @@ Technical Skills
 ----------
 * Korean (Native), English (Fluent), Mandarin (Novice) -->
 
-Last Updated: 11 Sept 2021
+Last Updated: 29 Oct 2021
