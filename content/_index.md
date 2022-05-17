@@ -5,17 +5,18 @@ toc: true
 
 * **University of California, San Diego**\
 Sept. 2019 - Present
-    * Ph.D. Student in **Electrical and Computer Engineering** &nbsp;&nbsp;&nbsp;&nbsp;
+    * Ph.D. Candidate in **Electrical and Computer Engineering**
 * **Korea University**\
 Mar. 2013 - Feb. 2019
-    * Bachelor of Engineering in **Electrical Engineering**, Graduated with Great Honor
+    * Bachelor of Engineering in **Electrical Engineering**
 
 
 ### Publications
 ###### International Journal
-  - [J4] G. Armstrong, C. Martino, J. Morris, B. Khaleghi, **J. Kang**, J. Dereus, Q. Zhu, D. Roush, D. McDonald, A. Gonzalez, J. P Shaffer, C. Carpenter, M. Estaki, S. Wandro, S. Eilert, A. Akel, J. Eno, K. Curewitz, A. D Swafford, N. Moshiri, T. Rosing, R. Knight, *Swapping metagenomics preprocessing pipeline components offers speed and sensitivity increases*, to appear in American Society for Microbiology mSystems Journal, 2022
-  - [J3] S. Gupta, B. Khaleghi, S. Salamat, J. Morris, R. Ramkumar, J. Yu, A. Tiwari, **J. Kang**, M. Imani, B. Akansali and T. Rosing, *Store-n-Learn: Classification and Clustering with Hyperdimensional Computing across Flash Hierarchy*, ACM Transactions on Embedded Computing Systems, Accepted.
-  - [J2] S. Gupta, M. Imani, J. Sim, A. Huang, F. Wu, **J. Kang**, Y. Kim, and T. Rosing, *COSMO: Computing with Stochastic Numbers in Memory*, ACM Journal on Emerging Technologies in Computing Systems (JETC), Accepted.
+  - [J5] **J. Kang**, B. Khaleghi, T. Rosing, and Y. Kim, *OpenHD: A GPU-Powered Framework for Hyperdimensional Computing*, IEEE Transactions on Computers (TC), Accepted.
+  - [J4] G. Armstrong, C. Martino, J. Morris, B. Khaleghi, **J. Kang**, J. Dereus, Q. Zhu, D. Roush, D. McDonald, A. Gonzalez, J. P Shaffer, C. Carpenter, M. Estaki, S. Wandro, S. Eilert, A. Akel, J. Eno, K. Curewitz, A. D Swafford, N. Moshiri, T. Rosing, R. Knight, *Swapping metagenomics preprocessing pipeline components offers speed and sensitivity increases*, to appear in American Society for Microbiology mSystems Journal, 2022.
+  - [J3] S. Gupta, B. Khaleghi, S. Salamat, J. Morris, R. Ramkumar, J. Yu, A. Tiwari, **J. Kang**, M. Imani, B. Akansali and T. Rosing, *Store-n-Learn: Classification and Clustering with Hyperdimensional Computing across Flash Hierarchy*, ACM Transactions on Embedded Computing Systems (TECS), 2022.
+  - [J2] S. Gupta, M. Imani, J. Sim, A. Huang, F. Wu, **J. Kang**, Y. Kim, and T. Rosing, *COSMO: Computing with Stochastic Numbers in Memory*, ACM Journal on Emerging Technologies in Computing Systems (JETC), 2022.
   - [J1] **J. Kang**, I. Sohn, and S. H. Lee, *Enhanced Message-Passing Based LEACH Protocol for Wireless Sensor Networks*, Sensors, 2018. 
 [\[LINK\]](https://www.mdpi.com/1424-8220/19/1/75)
 
@@ -39,6 +40,8 @@ Mar. 2013 - Feb. 2019
 Jan. 2020 - Present
     - Acceleration of DNA sequence alignment for protein and nucleotide database on HPC systems
     - Accuracy enhancement and acceleration of hyperdimensional computing algorithms on GPU with High Bandwidth Memory
+* **Machine Learning Research Intern** at Video Engineering Team, Apple\
+June 2022 - Sept. 2022
 * **Co-op/Intern** at Radeon Technologies Group, AMD\
 June 2021 - Sept. 2021 
 * **Research Intern** at System Architecture Research Group, SK Hynix\
@@ -51,7 +54,7 @@ Jan. 2018 - Aug. 2019
 * **Data Engineer** at Korea University\
 May 2019 - Aug. 2019
   * Data Warehousing: Designed ETL pipeline and RESTful API in data warehouse for integrating and managing campus data
-      
+
 ### Teaching Experience
 * **Teaching Assistant** for Engineering Mathematics I (Spring 2017)
 * **Peer-tutoring Mentor** for Circuit Theory I (Spring 2017)
@@ -76,4 +79,4 @@ Technical Skills
 ----------
 * Korean (Native), English (Fluent), Mandarin (Novice) -->
 
-Last Updated: 29 Oct 2021
+Last Updated: 17 May 2022
