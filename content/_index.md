@@ -13,8 +13,8 @@ Mar. 2013 - Feb. 2019
 
 ### Publications
 ###### International Journal
-  - [J5] **J. Kang**, B. Khaleghi, T. Rosing, and Y. Kim, *OpenHD: A GPU-Powered Framework for Hyperdimensional Computing*, IEEE Transactions on Computers (TC), Accepted.
-  - [J4] G. Armstrong, C. Martino, J. Morris, B. Khaleghi, **J. Kang**, J. Dereus, Q. Zhu, D. Roush, D. McDonald, A. Gonzalez, J. P Shaffer, C. Carpenter, M. Estaki, S. Wandro, S. Eilert, A. Akel, J. Eno, K. Curewitz, A. D Swafford, N. Moshiri, T. Rosing, R. Knight, *Swapping metagenomics preprocessing pipeline components offers speed and sensitivity increases*, to appear in American Society for Microbiology mSystems Journal, 2022.
+  - [J5] **J. Kang**, B. Khaleghi, T. Rosing, and Y. Kim, *OpenHD: A GPU-Powered Framework for Hyperdimensional Computing*, IEEE Transactions on Computers (TC), 2022.
+  - [J4] G. Armstrong, C. Martino, J. Morris, B. Khaleghi, **J. Kang**, J. Dereus, Q. Zhu, D. Roush, D. McDonald, A. Gonzalez, J. P Shaffer, C. Carpenter, M. Estaki, S. Wandro, S. Eilert, A. Akel, J. Eno, K. Curewitz, A. D Swafford, N. Moshiri, T. Rosing, R. Knight, *Swapping metagenomics preprocessing pipeline components offers speed and sensitivity increases*, in American Society for Microbiology mSystems Journal, 2022.
   - [J3] S. Gupta, B. Khaleghi, S. Salamat, J. Morris, R. Ramkumar, J. Yu, A. Tiwari, **J. Kang**, M. Imani, B. Akansali and T. Rosing, *Store-n-Learn: Classification and Clustering with Hyperdimensional Computing across Flash Hierarchy*, ACM Transactions on Embedded Computing Systems (TECS), 2022.
   - [J2] S. Gupta, M. Imani, J. Sim, A. Huang, F. Wu, **J. Kang**, Y. Kim, and T. Rosing, *COSMO: Computing with Stochastic Numbers in Memory*, ACM Journal on Emerging Technologies in Computing Systems (JETC), 2022.
   - [J1] **J. Kang**, I. Sohn, and S. H. Lee, *Enhanced Message-Passing Based LEACH Protocol for Wireless Sensor Networks*, Sensors, 2018. 
@@ -80,4 +80,4 @@ Technical Skills
 ----------
 * Korean (Native), English (Fluent), Mandarin (Novice) -->
 
-Last Updated: 17 May 2022
+Last Updated: 30 Aug 2022
