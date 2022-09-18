@@ -10,7 +10,6 @@ Sept. 2019 - Present
 Mar. 2013 - Feb. 2019
     * Bachelor of Engineering in **Electrical Engineering**
 
-
 ### Publications
 ###### International Journal
   - [J5] **J. Kang**, B. Khaleghi, T. Rosing, and Y. Kim, *OpenHD: A GPU-Powered Framework for Hyperdimensional Computing*, IEEE Transactions on Computers (TC), 2022.
@@ -21,7 +20,7 @@ Mar. 2013 - Feb. 2019
 [\[LINK\]](https://www.mdpi.com/1424-8220/19/1/75)
 
 ###### International Conference
-  - [C9] **J. Kang**, M. Zhou, A. Bhansali, W. Xu, A. Thomas and T. Rosing, *RelHD: A Lightweight Graph-based Learning with Hyperdimensional Computing*, In IEEE International Conference on Computer Design (ICCD), 2022.
+  - [C9] **J. Kang**, M. Zhou, A. Bhansali, W. Xu, A. Thomas and T. Rosing, *RelHD: A Lightweight Graph-based Learning on FeFET with Hyperdimensional Computing*, In IEEE International Conference on Computer Design (ICCD), 2022.
   - [C8] R. Chandrasekaran, K. Ergun, J. Lee, D. Nanjunda, **J. Kang** and T. Rosing, *FHDnn: Communication Efficient and Robust Federated Learning for AIoT Networks*, In Design Automation Conference (DAC), 2022.
   - [C7] W. Xu, **J. Kang** and T. Rosing, *A Near-Storage Framework for Boosted Data Preprocessing of Mass Spectrum Clustering*, In Design Automation Conference (DAC), 2022.
   - [C6] B. Khaleghi, U. Mallappa, D. Yaldiz, H. Yang, M. Shah, **J. Kang** and T. Rosing, *PatterNet: Explore and Exploit Filter Patterns for Efficient Deep Neural Networks*, In Design Automation Conference (DAC), 2022.
