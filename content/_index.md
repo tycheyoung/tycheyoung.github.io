@@ -20,7 +20,9 @@ Mar. 2013 - Feb. 2019
 [\[LINK\]](https://www.mdpi.com/1424-8220/19/1/75)
 
 ###### International Conference
-  - [C9] **J. Kang**, M. Zhou, A. Bhansali, W. Xu, A. Thomas and T. Rosing, *RelHD: A Graph-based Learning on FeFET with Hyperdimensional Computing*, In IEEE International Conference on Computer Design (ICCD), 2022.
+  - [C11] W. Xu, **J. Kang** and T. Rosing, *FSL-HD: Accelerating Few-Shot Learning on ReRAM using Hyperdimensional Computing*, In Design, Automation and Test in Europe (DATE), 2023.
+  - [C10] **J. Kang**, M. Zhou, A. Bhansali, W. Xu, A. Thomas and T. Rosing, *RelHD: A Graph-based Learning on FeFET with Hyperdimensional Computing*, In IEEE International Conference on Computer Design (ICCD), 2022.
+  - [C9] **J. Kang**, W. Xu, W. Bittremieux and T. Rosing, *Massively Parallel Open Modification Spectral Library Searching with Hyperdimensional Computing*, In International Conference on Parallel Architectures and Compilation Techniques (PACT), 2022. (Short Paper)
   - [C8] R. Chandrasekaran, K. Ergun, J. Lee, D. Nanjunda, **J. Kang** and T. Rosing, *FHDnn: Communication Efficient and Robust Federated Learning for AIoT Networks*, In Design Automation Conference (DAC), 2022.
   - [C7] W. Xu, **J. Kang** and T. Rosing, *A Near-Storage Framework for Boosted Data Preprocessing of Mass Spectrum Clustering*, In Design Automation Conference (DAC), 2022.
   - [C6] B. Khaleghi, U. Mallappa, D. Yaldiz, H. Yang, M. Shah, **J. Kang** and T. Rosing, *PatterNet: Explore and Exploit Filter Patterns for Efficient Deep Neural Networks*, In Design Automation Conference (DAC), 2022.
@@ -33,6 +35,14 @@ Mar. 2013 - Feb. 2019
   - [KC3] **J. Kang**, I. Sohn, and S. H. Lee, *Data Compression-considered LEACH Protocol for Wireless Sensor Networks*, JCCI, 2019. 
   - [KC2] **J. Kang**, M. Kim, and S. H. Lee, *Maximizing Wireless Sensor Network lifetime by message passing between nodes*, Proceedings of Symposium of the Korean Institute of Communications and Information Sciences, 2018. [\[LINK\]](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07512630)
   - [KC1] **J. Kang**, S. Yoo, and H. Kim, *LOS and NLOS classification of UWB signals using CapsNet*, Proceedings of Symposium of the Korean Institute of Communications and Information Sciences, 2018. [\[LINK\]](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07368798)
+
+###### Technical Reports & Workshops
+  - [W6] B. Khaleghi, **J. Kang**, H. Xu, J. Morris and T. Rosing, *GENERIC: Highly Efficient Learning Engine on Edge using Hyperdimensional Computing*, SRC TECHCON, Sept 2022.
+  - [W5] **J. Kang**, C. Young, J. Morris, A. Akel, S. Eilert, J. Eno, K. Curewitz, N. Moshiri and T. Rosing, *A GPU-Powered Phylogenetic Analysis for Large-scale Genomic Sequences*, Society for Molecular Biology & Evolution, July 2021.
+  - [W4] **J. Kang**, C. Young, J. Morris, A. Akel, S. Eilert, J. Eno, K. Curewitz, N. Moshiri and T. Rosing, *A GPU-Powered Phylogenetic Analysis for Large-scale Genomic Sequences*, 28th International Dynamics & Evolution of Human Viruses, May 2021.
+  - [W3] S. Salamat, **J. Kang**, Y. Kim, M. Imani, N. Moshiri and T. Rosing, *FPGA Acceleration of Protein Back-Translation and Alignment*, ASHG Annual Meeting, Oct 2020.
+  - [W2] **J. Kang**, Y. Kim, N. Moshiri and T. Rosing, *Acceleration of protein-nucleotide sequence pairwise identification using GPGPU*, ASHG Annual Meeting, Oct 2020.
+  - [W1] **J. Kang**, Y. Kim and T. Rosing, *HDCUDA: Framework for Brain-Inspired High-Dimensional Computing Accelerated with GPU*, SRC TECHCON, Sept 2020.
 
 
 ### Work/Research Experience
