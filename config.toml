@@ -133,11 +133,11 @@ weight = -13
 identifier = "HOME"
 url = "/"
 
-[[menu.main]]
-name = "NEWS"
-weight = -12
-identifier = "NEWS"
-url = "/news"
+#[[menu.main]]
+#name = "NEWS"
+#weight = -12
+#identifier = "NEWS"
+#url = "/news"
 
 
 [blackfriday]

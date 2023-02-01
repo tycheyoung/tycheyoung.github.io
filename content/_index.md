@@ -12,6 +12,7 @@ Mar. 2013 - Feb. 2019
 
 ### Publications
 ###### International Journal
+  - [J6] R. K. Fielding-Miller, [and 43 others, including **J. Kang**], *Wastewater and surface monitoring to detect COVID-19 in elementary school settings: The Safer at School Early Alert project*, The Lancet Regional Health – Americas, 2022.
   - [J5] **J. Kang**, B. Khaleghi, T. Rosing, and Y. Kim, *OpenHD: A GPU-Powered Framework for Hyperdimensional Computing*, IEEE Transactions on Computers (TC), 2022.
   - [J4] G. Armstrong, C. Martino, J. Morris, B. Khaleghi, **J. Kang**, J. Dereus, Q. Zhu, D. Roush, D. McDonald, A. Gonzalez, J. P Shaffer, C. Carpenter, M. Estaki, S. Wandro, S. Eilert, A. Akel, J. Eno, K. Curewitz, A. D Swafford, N. Moshiri, T. Rosing, R. Knight, *Swapping metagenomics preprocessing pipeline components offers speed and sensitivity increases*, in American Society for Microbiology mSystems Journal, 2022.
   - [J3] S. Gupta, B. Khaleghi, S. Salamat, J. Morris, R. Ramkumar, J. Yu, A. Tiwari, **J. Kang**, M. Imani, B. Akansali and T. Rosing, *Store-n-Learn: Classification and Clustering with Hyperdimensional Computing across Flash Hierarchy*, ACM Transactions on Embedded Computing Systems (TECS), 2022.
