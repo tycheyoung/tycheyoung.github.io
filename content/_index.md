@@ -49,15 +49,17 @@ Mar. 2013 - Feb. 2019
 ### Work/Research Experience
 * **Graduate Student Researcher** at [System Energy Effciency Lab](http://seelab.ucsd.edu), UC San Diego (*Advisor: Prof. Tajana Simunic Rosing*)\
 Jan. 2020 - Present
-    - Acceleration of DNA sequence alignment for protein and nucleotide database on HPC systems
-    - Accuracy enhancement and acceleration of hyperdimensional computing algorithms on GPU with High Bandwidth Memory
-* **Machine Learning Research Intern** at Video Engineering Team, Apple\
+    - GPU acceleration for hyperdimenisonal computing and bioinformatics
+    - Fast and energy-efficient machine learning for low-power devices
+* **Machine Learning Research Intern** at Apple Neural Engine Compiler Team (Video Engineering Group), Apple\
 June 2022 - Sept. 2022
+    - Hardware-aware model compression
 * **Co-op/Intern** at Radeon Technologies Group, AMD\
 June 2021 - Sept. 2021 
+    - ML framework; Efficient automated mixed precision training on GPU
 * **Research Intern** at System Architecture Research Group, SK Hynix\
 June 2020 - Sept. 2020 
-    <!-- - Acceleration of DNA sequence alignment for protein and nucleotide database on HPC systems -->
+    - Development & PyTorch integration of near-data processing architecture for personalized recommendation system
 * **Research Intern** at [Lab for Informatics, Communications, and Systems](https://sites.google.com/view/licswww), Korea University (*Advisor: Prof. Sang Hyun Lee*)\
 Jan. 2018 - Aug. 2019
     - Message Passing:
