@@ -35,7 +35,8 @@ May 2019 - Aug. 2019
 
 ### Publications
 ###### International Journal
-  - [J6] R. K. Fielding-Miller, [and 43 others, including **J. Kang**], *Wastewater and surface monitoring to detect COVID-19 in elementary school settings: The Safer at School Early Alert project*, The Lancet Regional Health – Americas, 2022.
+  - [J7] W. Xu, **J. Kang**, W. Bittremieux, N. Moshiri, and T. Rosing, *HyperSpec: Ultra-fast Mass Spectra Clustering in Hyperdimensional Space*, Journal of Proteome Research, 2023.
+  - [J6] R. K. Fielding-Miller, [and 43 others, including **J. Kang**], *Wastewater and surface monitoring to detect COVID-19 in elementary school settings: The Safer at School Early Alert project*, The Lancet Regional Health – Americas, 2023.
   - [J5] **J. Kang**, B. Khaleghi, T. Rosing, and Y. Kim, *OpenHD: A GPU-Powered Framework for Hyperdimensional Computing*, IEEE Transactions on Computers (TC), 2022.
   - [J4] G. Armstrong, C. Martino, J. Morris, B. Khaleghi, **J. Kang**, J. Dereus, Q. Zhu, D. Roush, D. McDonald, A. Gonzalez, J. P Shaffer, C. Carpenter, M. Estaki, S. Wandro, S. Eilert, A. Akel, J. Eno, K. Curewitz, A. D Swafford, N. Moshiri, T. Rosing, R. Knight, *Swapping metagenomics preprocessing pipeline components offers speed and sensitivity increases*, in American Society for Microbiology mSystems Journal, 2022.
   - [J3] S. Gupta, B. Khaleghi, S. Salamat, J. Morris, R. Ramkumar, J. Yu, A. Tiwari, **J. Kang**, M. Imani, B. Akansali and T. Rosing, *Store-n-Learn: Classification and Clustering with Hyperdimensional Computing across Flash Hierarchy*, ACM Transactions on Embedded Computing Systems (TECS), 2022.
@@ -93,4 +94,4 @@ Language Skills
 ----------
 * Korean (Native), English (Fluent), Mandarin (Novice) -->
 
-Last Updated: 04 Feb 2023
+Last Updated: 20 May 2023
