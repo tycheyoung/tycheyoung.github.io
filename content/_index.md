@@ -1,18 +1,24 @@
 ---
 toc: true
 ---
+
+I joined Apple after graduation and can be reached via personal email or LinkedIn message.
+
 ### Education
 
 * **University of California, San Diego**\
-Sept. 2019 - Present
-    * Ph.D. Candidate in **Electrical and Computer Engineering**
+Sept. 2019 - June 2023
+    * Ph.D. in **Electrical and Computer Engineering**
+    * Dissertation: Efficient Computing in Hyperdimensional Space
 * **Korea University**\
 Mar. 2013 - Feb. 2019
     * Bachelor of Engineering in **Electrical Engineering**
 
 ### Work/Research Experience
+* **Machine Learning Acceleration Engineer** at Apple Neural Engine Compiler Team (Video Engineering Group), Apple
+June 2023 - Current
 * **Graduate Student Researcher** at [System Energy Effciency Lab](http://seelab.ucsd.edu), UC San Diego (*Advisor: Prof. Tajana Simunic Rosing*)\
-Jan. 2020 - Present
+Jan. 2020 - June 2023
     - GPU acceleration for hyperdimenisonal computing and bioinformatics
     - Fast and energy-efficient machine learning for low-power devices
 * **Machine Learning Research Intern** at Apple Neural Engine Compiler Team (Video Engineering Group), Apple\
@@ -35,6 +41,7 @@ May 2019 - Aug. 2019
 
 ### Publications
 ###### International Journal
+  - [J8] **J. Kang**, W. Xu, W. Bittremieux, N. Moshiri, and T. Rosing, *Accelerating Open Modification Spectral Library Searching on Tensor Core in High-dimensional Space*, Bioinformatics, 2023.
   - [J7] W. Xu, **J. Kang**, W. Bittremieux, N. Moshiri, and T. Rosing, *HyperSpec: Ultra-fast Mass Spectra Clustering in Hyperdimensional Space*, Journal of Proteome Research, 2023.
   - [J6] R. K. Fielding-Miller, [and 43 others, including **J. Kang**], *Wastewater and surface monitoring to detect COVID-19 in elementary school settings: The Safer at School Early Alert project*, The Lancet Regional Health – Americas, 2023.
   - [J5] **J. Kang**, B. Khaleghi, T. Rosing, and Y. Kim, *OpenHD: A GPU-Powered Framework for Hyperdimensional Computing*, IEEE Transactions on Computers (TC), 2022.
@@ -94,4 +101,4 @@ Language Skills
 ----------
 * Korean (Native), English (Fluent), Mandarin (Novice) -->
 
-Last Updated: 20 May 2023
+Last Updated: 16 July 2023

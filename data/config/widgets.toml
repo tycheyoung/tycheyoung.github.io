@@ -1,7 +1,7 @@
 # About Widget config
 [about]
 title = "Jaeyoung Kang"                            # default: .Site.Title
-description = "Ph.D. Student at UC San Diego"      # default: .Site.Params.info.description
+description = "Machine Learning Engineer at Apple"      # default: .Site.Params.info.description
 logo = "/images/logo.png"             # default: "/images/logo.png"
 
 # Breadcrumbs Widget config
