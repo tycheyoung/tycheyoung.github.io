@@ -52,6 +52,9 @@ May 2019 - Aug. 2019
 [\[LINK\]](https://www.mdpi.com/1424-8220/19/1/75)
 
 ###### International Conference
+  - [C14] **J. Kang**, Y. H. Lee, M. Zhou, W. Xu, and T. Rosing, *HygHD: Hyperdimensional Hypergraph Learning*, In Design, Automation, and Test in Europe (DATE), 2024.
+  - [C13] W. Xu, **J. Kang**, and T. Rosing, *AttBind: Memory-efficient Acceleration for Long-range Attention using Vector-derived Symbolic Binding*, In Design, Automation, and Test in Europe (DATE), 2024.
+  - [C12] S. Pinge, W. Xu, **J. Kang**, T. Zhang, N. Moshiri, W. Bittremieux, and T. Rosing, *SpecHD: Hyperdimensional Computing Framework for FPGA-based Mass Spectrometry Clustering*, In Design, Automation, and Test in Europe (DATE), 2024.
   - [C11] W. Xu, **J. Kang** and T. Rosing, *FSL-HD: Accelerating Few-Shot Learning on ReRAM using Hyperdimensional Computing*, In Design, Automation and Test in Europe (DATE), 2023.
   - [C10] **J. Kang**, M. Zhou, A. Bhansali, W. Xu, A. Thomas and T. Rosing, *RelHD: A Graph-based Learning on FeFET with Hyperdimensional Computing*, In IEEE International Conference on Computer Design (ICCD), 2022.
   - [C9] **J. Kang**, W. Xu, W. Bittremieux, and T. Rosing, *Massively Parallel Open Modification Spectral Library Searching with Hyperdimensional Computing*, In International Conference on Parallel Architectures and Compilation Techniques (PACT), 2022.
