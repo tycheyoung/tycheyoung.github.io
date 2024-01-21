@@ -104,4 +104,4 @@ Language Skills
 ----------
 * Korean (Native), English (Fluent), Mandarin (Novice) -->
 
-Last Updated: 13 Nov 2023
+Last Updated: 20 Jan 2024
