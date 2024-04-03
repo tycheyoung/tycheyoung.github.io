@@ -41,6 +41,7 @@ May 2019 - Aug. 2019
 
 ### Publications
 ###### International Journal
+  - [J9] **J. Kang**, W. Xu, W. Bittremieux, N. Moshiri, and T. Rosing, *DRAM-Based Acceleration of Open Modification Search in Hyperdimensional Space*, IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, 2024.
   - [J8] **J. Kang**, W. Xu, W. Bittremieux, N. Moshiri, and T. Rosing, *Accelerating Open Modification Spectral Library Searching on Tensor Core in High-dimensional Space*, Bioinformatics, 2023.
   - [J7] W. Xu, **J. Kang**, W. Bittremieux, N. Moshiri, and T. Rosing, *HyperSpec: Ultra-fast Mass Spectra Clustering in Hyperdimensional Space*, Journal of Proteome Research, 2023.
   - [J6] R. K. Fielding-Miller, [and 43 others, including **J. Kang**], *Wastewater and surface monitoring to detect COVID-19 in elementary school settings: The Safer at School Early Alert project*, The Lancet Regional Health – Americas, 2023.
